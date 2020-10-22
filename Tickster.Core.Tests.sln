@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tickster.Core.Tests", "Tickster.Core.Tests.csproj", "{42E337FB-08F4-44BE-B8FA-AFEF701A48FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E337FB-08F4-44BE-B8FA-AFEF701A48FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E337FB-08F4-44BE-B8FA-AFEF701A48FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E337FB-08F4-44BE-B8FA-AFEF701A48FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E337FB-08F4-44BE-B8FA-AFEF701A48FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B167929F-770D-4791-A530-8FDBC6F705A8}
+	EndGlobalSection
+EndGlobal
